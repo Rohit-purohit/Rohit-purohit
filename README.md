@@ -116,42 +116,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-### 📊 Customer Behavior Data Analysis
-
-End-to-end analytics project involving data cleaning, exploratory data analysis, visualization, and business insight generation.
-
-### 🤖 Customer Churn Prediction
-
-Machine learning project focused on predicting customer retention and identifying key churn drivers.
-
-### 💳 Credit Card Fraud Detection
-
-Built classification models to detect fraudulent transactions using imbalanced datasets.
-
-### 📈 Sales Forecasting Dashboard
-
-Developed forecasting models and interactive dashboards to support business decision-making.
-
-### 🔬 HEMT Device Design & Optimization
-
-Research project focused on improving breakdown characteristics of semiconductor devices using field plate technology.
-
----
-
-## 🌱 Currently Learning
-
-* Advanced SQL
-* Power BI
-* Tableau
-* Machine Learning
-* Semiconductor Device Modeling
-* VLSI Physical Design
-* Data Engineering Fundamentals
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
