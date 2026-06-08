@@ -1,12 +1,8 @@
 # Hi there 👋, I'm Rohit Purohit
 
-<h3 align="center">
-⚡ Electronics & Communication Engineer | VLSI Enthusiast | Data Analyst | ML Learner
-</h3>
+### Electronics & Communication Engineer | VLSI Enthusiast | Data Analyst | ML Learner
 
-<p align="center">
-Building the future at the intersection of Silicon, Data, and Intelligence 🚀
-</p>
+🚀 Building the future at the intersection of **Silicon, Data, and Intelligence**
 
 ---
 
@@ -18,9 +14,9 @@ Building the future at the intersection of Silicon, Data, and Intelligence 🚀
 
 📊 Exploring Data Analytics, Machine Learning, Business Intelligence, and Data-Driven Engineering Applications
 
-💡 Strong interest in Hardware-Software Co-Design and integrating intelligent software solutions with electronic systems
+⚡ Strong interest in Hardware-Software Co-Design and integrating intelligent software solutions with electronic systems
 
-🚀 My goal is to bridge the gap between hardware and software by developing innovative technologies that combine semiconductor engineering, VLSI design, analytics, and artificial intelligence
+🎯 My goal is to bridge the gap between hardware and software by developing innovative technologies that combine semiconductor engineering, VLSI design, analytics, and artificial intelligence
 
 ---
 
@@ -40,69 +36,85 @@ Building the future at the intersection of Silicon, Data, and Intelligence 🚀
 
 ## 🔬 Research Experience
 
-### Research Intern (IEEE Publication)
+### Research Intern (IEEE Publication) | BIT Mesra
 
-**Birla Institute of Technology, Mesra**
+* Designed HEMT devices for high-power electronic applications.
+* Implemented field plate technology to improve breakdown characteristics.
+* Achieved approximately **130% improvement in breakdown voltage**.
+* Increased breakdown voltage from **1000V to 2300V**.
+* Worked on semiconductor device optimization for industrial applications.
 
-* Designed HEMT devices for high-power electronics applications
-* Implemented field plate technology for enhanced breakdown characteristics
-* Achieved approximately **130% improvement in breakdown voltage**
-* Increased breakdown voltage from **1000V to 2300V**
-* Worked on semiconductor device optimization for industrial applications
-
-### Tools Used
-
-* Silvaco TCAD
-* MATLAB
-* Verilog HDL
+**Tools Used:** Silvaco TCAD, MATLAB, Verilog HDL
 
 ---
 
-## 🛠️ Technical Skills
+# 💻 Tech Stack
 
 ### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,matlab"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,matlab" />
 </p>
 
-### Data Analytics & Machine Learning
+### Data Analytics & Visualization
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-Learn
-* Statistics
-* Machine Learning
-* Data Visualization
+<p align="left">
 
-### Databases
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-0C7BDC?style=for-the-badge"/>
+
+</p>
+
+### Machine Learning
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge"/>
+
+</p>
+
+### Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### Electronics & VLSI
 
-* Verilog HDL
-* Digital Electronics
-* Semiconductor Devices
-* CMOS Fundamentals
-* HEMT Device Design
-* VLSI Concepts
+<p align="left">
 
-### Tools
+<img src="https://img.shields.io/badge/Verilog_HDL-8A2BE2?style=for-the-badge"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://img.shields.io/badge/Silvaco_TCAD-005BAC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/VLSI_Design-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Semiconductor_Devices-1E90FF?style=for-the-badge"/>
+
 </p>
 
-* Power BI
-* Microsoft Excel
-* MATLAB
-* Silvaco TCAD
+### Tools & Platforms
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+</p>
 
 ---
 
@@ -110,31 +122,23 @@ Building the future at the intersection of Silicon, Data, and Intelligence 🚀
 
 ### 📊 Customer Behavior Data Analysis
 
-* Data Cleaning
-* Exploratory Data Analysis
-* Dashboarding
-* Business Insights
-* Data Visualization
+End-to-end analytics project involving data cleaning, exploratory data analysis, visualization, and business insight generation.
 
 ### 🤖 Customer Churn Prediction
 
-* Machine Learning Classification
-* Feature Engineering
-* Customer Retention Analytics
+Machine learning project focused on predicting customer retention and identifying key churn drivers.
 
 ### 💳 Credit Card Fraud Detection
 
-* Fraud Analytics
-* Random Forest
-* XGBoost
-* Imbalanced Data Handling
+Built classification models to detect fraudulent transactions using imbalanced datasets.
 
 ### 📈 Sales Forecasting Dashboard
 
-* Time Series Analysis
-* Forecasting
-* Business Intelligence
-* Power BI Dashboard
+Developed forecasting models and interactive dashboards to support business decision-making.
+
+### 🔬 HEMT Device Design & Optimization
+
+Research project focused on improving breakdown characteristics of semiconductor devices using field plate technology.
 
 ---
 
@@ -142,32 +146,11 @@ Building the future at the intersection of Silicon, Data, and Intelligence 🚀
 
 * Advanced SQL
 * Power BI
+* Tableau
 * Machine Learning
-* VLSI Physical Design
 * Semiconductor Device Modeling
+* VLSI Physical Design
 * Data Engineering Fundamentals
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=1&column=6"/>
-</p>
 
 ---
 
@@ -185,10 +168,10 @@ Building the future at the intersection of Silicon, Data, and Intelligence 🚀
 
 </p>
 
-📧 [rohitrajpurohit921@gmail.com](mailto:rohitrajpurohit921@gmail.com)
+📧 **[rohitrajpurohit921@gmail.com](mailto:rohitrajpurohit921@gmail.com)**
 
-💼 LinkedIn:
-https://www.linkedin.com/in/purohit-rohit-282594354/
+💼 **LinkedIn:**
+[www.linkedin.com/in/purohit-rohit-282594354](http://www.linkedin.com/in/purohit-rohit-282594354)
 
 ---
 
@@ -196,6 +179,4 @@ https://www.linkedin.com/in/purohit-rohit-282594354/
 
 > Technology becomes truly powerful when hardware and software work together to solve real-world problems.
 
----
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+> Bridging Hardware & Software | VLSI • Semiconductors • Data Analytics • Machine Learning
